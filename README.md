@@ -1,4 +1,4 @@
-## Ph.D. Paper Requirement for Shan Jiang   
+## Ph.D. Paper Requirement for Dan Guo 
 
 **Advisor:** [Olga Vitek](https://www.khoury.northeastern.edu/people/olga-vitek/)  
 **Paper:** [Unsupervised segmentation of mass spectrometric ion images characterizes morphology of tissues](paper.pdf){:target="_blank"}  
