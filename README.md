@@ -1,11 +1,11 @@
 ## Ph.D. Paper Requirement for Shan Jiang   
 
-**Advisor:** [Christo Wilson](https://cbw.sh/)  
+**Advisor:** [Olga Vitek](https://www.khoury.northeastern.edu/people/olga-vitek/)  
 **Paper:** [On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi](https://www.shanjiang.me/publications/www18_paper.pdf)  
-**Venue:** [The 2018 Web Conference (WWW'18)](https://www2018.thewebconf.org/)  
-**Accept Rate:** 171/1155=14.8%  
+**Venue:** [The 27th conference on intelligent systems for molecular biology and the 18th European conference on computational bioloy (ISMB/ECCB 2019)](https://www.iscb.org/ismbeccb2019)  
+**Accept Rate:** 69/366=18.9%  
 **Additional Information:**  
-WWW is generally considered to be a good conference in web-related areas, some references about its quality can be found [here](https://scholar.google.com/citations?view_op=top_venues&vq=eng_databasesinformationsystems), [here](http://csrankings.org/) and [here](http://csmetrics.org/).  
+ISMB is considered as a top conference in bioinformatics area and its quality can be refered to [here](https://scholar.google.com/citations?view_op=top_venues&vq=eng_databasesinformationsystems), [here](http://csrankings.org/) and [here](http://csmetrics.org/).  
 **Statement from Advisor:**  
 > Shan's paper, On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi, has been accepted for publication at WWW 2018 in April. Historically, WWW has had acceptance rates <20%. This paper is the follow-up to work that my former student, Le Chen, published in 2015.  
   
