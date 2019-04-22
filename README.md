@@ -7,6 +7,8 @@
 **Additional Information:**  
 ISMB is considered as a top conference in bioinformatics area and its quality can be refered to [here](http://www.conferenceranks.com/), [here](http://csrankings.org/) and [here](http://csmetrics.org/).  
 **Statement from Advisor:**  
-> Dan published XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+> Dan published text text text text text text text text text text text text text text text text text text text text text text text text text text
+  text text text text text text text text text text text text text text
   
-> XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+> Dan did text text text text text text text text text text text text text text text text text text text text text text text text text text
+  text text text text text text text text text text text text text text
