@@ -1,7 +1,7 @@
 ## Ph.D. Paper Requirement for Shan Jiang   
 
 **Advisor:** [Olga Vitek](https://www.khoury.northeastern.edu/people/olga-vitek/)  
-**Paper:** [On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi](https://www.shanjiang.me/publications/www18_paper.pdf)  
+**Paper:** [On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi](paer.pdf){:target="_blank"}  
 **Venue:** [The 27th conference on intelligent systems for molecular biology and the 18th European conference on computational bioloy (ISMB/ECCB 2019)](https://www.iscb.org/ismbeccb2019)  
 **Accept Rate:** 69/366=18.9%  
 **Additional Information:**  
