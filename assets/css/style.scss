@@ -1,0 +1,20 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+	display: none;
+};
+
+footer {
+	display: none;
+};
+
+a {
+	color: #2166ac;
+};
+
+.inner {
+	max-width: 720px;
+}
